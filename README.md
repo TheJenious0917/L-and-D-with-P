@@ -30,6 +30,7 @@ Terraform | Infrastructure as Code tool, allows building and automating resource
 - Docker for Beginners course - https://www.youtube.com/watch?v=3c-iBn73dDE
 - Beginners Python course - https://youtu.be/rfscVS0vtbw
 - Computer Networking fundamentals - https://youtu.be/k9ZigsW9il0
+- M365 Fundamentals course - https://www.youtube.com/watch?v=OCQ_Zq0xFcc
 
 ### Pages / Blogs
 
