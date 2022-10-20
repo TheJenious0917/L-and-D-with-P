@@ -13,6 +13,7 @@ Python | scripting and programming language that can be useful for just about an
 Docker | Container / virtualization platform | https://www.docker.com/ | https://docs.docker.com
 Amazon AWS | Cloud provider | https://aws.amazon.com | https://docs.aws.amazon.com/aws-support/?id=docs_gateway or https://aws.amazon.com/training/
 Terraform | Infrastructure as Code tool, allows building and automating resource creation | https://www.hashicorp.com/products/terraform | https://learn.hashicorp.com/terraform
+VS Code | editor, IDE, terminal, ball of awesome | https://code.visualstudio.com/ | https://code.visualstudio.com/docs
 
 ## Learning resources
 
