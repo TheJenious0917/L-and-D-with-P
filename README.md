@@ -49,3 +49,5 @@ VS Code | editor, IDE, terminal, ball of awesome | https://code.visualstudio.com
 - Drawing / artwork server or app of some kind
 - Financial or investing reporting or some sort of data analysis
 - Deploy network monitoring tool to learn more about home network and do some reporting
+- Movie suggester! - https://www.geeksforgeeks.org/movie-recommendation-based-emotion-python/
+- 
